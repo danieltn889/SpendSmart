@@ -66,3 +66,7 @@ Follow these steps to set up and run the SpendSmart project:
 
 7. Test the Simulation:
    - Try using SpendSmart like you would on a real phone.
+**Files to access to use USSD:**
+   -ussdapplication.php
+**To be reguster by message code are on :**
+   -incincomingsms.php
