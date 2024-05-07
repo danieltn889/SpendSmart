@@ -13,7 +13,7 @@
 5. Support and Contributions:
    - People can help make SpendSmart better by reporting problems or suggesting ideas on GitHub.
 
-# How to Run SpendSmart
+**How to Run SpendSmart**
 
 Follow these steps to set up and run the SpendSmart project:
 
@@ -50,3 +50,7 @@ Follow these steps to set up and run the SpendSmart project:
    - Start the pretend phone test.
 7. Test the Simulation:
    - Try using SpendSmart like you would on a real phone.
+**Files to access to use USSD:**
+   -ussdapplication.php
+**To be reguster by message code are on :**
+   -incincomingsms.php
